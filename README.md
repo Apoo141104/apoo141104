@@ -21,7 +21,7 @@
 - 💡 Motivated to build **AI solutions for education, healthcare, and mental wellness**
 - 💬 Ask me about: **LLMs, LangChain, Transformers, RAG, Python, DL, NLP, and Vision**
 - 📫 Reach me at: **aabenuni@gmail.com**
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1dQWedOX7tSehdMWcPB0mPrQfHGt6_OGv/view?usp=sharing)
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1wGxhcdt80qDjbGCEWZsqrKlRiuYifxZf/view?usp=sharing)
 - 🎯 Fun fact: *I turn coffee ☕ into embeddings 🤖 and calm breaths into breakthroughs 🧘*
 
 ---
