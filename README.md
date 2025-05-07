@@ -39,11 +39,25 @@
 
 ---
 
-### 🧠 Projects Highlight
+### 🧠 Featured Projects
 
-- 🎓 [Acabot – AI Study Buddy](https://github.com/Apoo141104/Acabot): RAG-based Q&A assistant for academic queries using LlamaIndex + LangChain + Gemini
-- 🧾 [Smart Vision Tech for Retail](https://github.com/Apoo141104/flipkartgridrobotics6.0-aabenuni): Product freshness & expiry detection via OCR + CNN
-- 🏠 [Smart Estates](https://github.com/Apoo141104/Real-Estates): Real estate price prediction using regression and real-time scraping
+- 🧠 [**Acabot – AI Study Buddy**](https://github.com/Apoo141104/Acabot)  
+  Academic Q&A assistant using LangChain, Gemini Embeddings, and LlamaIndex. Built on RAG pipelines with a Streamlit-based UI for multimodal query support.
+
+- 🏷️ [**Smart Vision Technology (Flipkart Grid 6.0)**](https://github.com/Apoo141104/flipkartgridrobotics6.0-aabenuni)  
+  AI-powered product classification system using OCR and CNN models (TensorFlow/Keras) for detecting brand, expiry date, and fruit freshness.
+
+- 🏠 [**Real Estates**](https://github.com/Apoo141104/Real-Estates)  
+  Capstone project analyzing real estate data using regression models and web scraping. Includes EDA, feature engineering, and automated price predictions.
+
+- 🧳 [**Travel App**](https://github.com/Apoo141104/travel_app)  
+  A Streamlit-based intelligent travel agent that helps users explore destinations and plan trips efficiently.
+
+- 🎥 [**Real-Time Object Detection in Video**](https://github.com/Apoo141104/Real-Time-Detection-of-Object-Missing-and-New-Object-Placement-in-Video)  
+  Real-time analytics pipeline for video surveillance, detecting missing and newly placed objects in dynamic scenes.
+
+- 🚗 [**Campus Carpool**](https://github.com/Apoo141104/campus-carpool-)  
+  C++ project using Dijkstra’s algorithm for optimized campus carpooling. Supports ride creation, user matching, and modular class structure.
 
 ---
 
@@ -83,3 +97,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Apoo141104&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
