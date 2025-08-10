@@ -16,13 +16,14 @@
 ### 🚀 About Me
 
 - 🌱 Passionate about **Generative AI, NLP, Computer Vision & RAG pipelines**
-- 🧪 Conducted research on **Hate Speech Detection** in code-switched language using BERT
-- 🧘 Practicing Yoga Instructor | YES+ Course Graduate | International Yoga Day Instructor
-- 💡 Motivated to build **AI solutions for education, healthcare, and mental wellness**
-- 💬 Ask me about: **LLMs, LangChain, Transformers, RAG, Python, DL, NLP, and Vision**
-- 📫 Reach me at: **aabenuni@gmail.com**
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1wGxhcdt80qDjbGCEWZsqrKlRiuYifxZf/view?usp=sharing)
-- 🎯 Fun fact: *I turn coffee ☕ into embeddings 🤖 and calm breaths into breakthroughs 🧘*
+- 🧪 Researched **Hate Speech Detection** in Hindi-English code-switched language with BERT-based architectures
+- 🧘 Certified Yoga Instructor | YES+ Course Graduate | International Yoga Day Speaker
+- 💡 Building **AI solutions that positively impact education, healthcare & mental well-being**
+- 🛠 Skilled in Python, LLM APIs, Transformers, LangChain, LlamaIndex, TensorFlow, and PyTorch
+- 💬 Always happy to talk about: **LLMs, Prompt Engineering, NLP, Computer Vision, and RAG**
+- 📫 Email: **aabenuni@gmail.com**
+- 📄 [My Resume](https://drive.google.com/file/d/1wGxhcdt80qDjbGCEWZsqrKlRiuYifxZf/view?usp=sharing)
+- 🎯 Fun fact: *I turn coffee ☕ into embeddings 🤖 and yoga breaths 🧘 into debugging clarity*
 
 ---
 
@@ -41,23 +42,23 @@
 
 ### 🧠 Featured Projects
 
-- 🧠 [**Acabot – AI Study Buddy**](https://github.com/Apoo141104/Acabot)  
-  Academic Q&A assistant using LangChain, Gemini Embeddings, and LlamaIndex. Built on RAG pipelines with a Streamlit-based UI for multimodal query support.
+- 🛡 **[RAKSHAK – Privacy Firewall for LLMs](https://github.com/Apoo141104/RAKSHak)** *(1st Place – Thales Cyber for AI Challenge)*  
+  A 4-layer AI pipeline using Presidio, IndicNER, BART, and LLaMA3 (Groq) to detect & redact Indian PII in LLM inputs and outputs.
 
-- 🏷️ [**Smart Vision Technology (Flipkart Grid 6.0)**](https://github.com/Apoo141104/flipkartgridrobotics6.0-aabenuni)  
-  AI-powered product classification system using OCR and CNN models (TensorFlow/Keras) for detecting brand, expiry date, and fruit freshness.
+- 🎓 **[Acabot – AI Study Buddy](https://github.com/Apoo141104/Acabot)**  
+  Conversational academic assistant built with LlamaIndex, Gemini Embeddings, and LangChain for text, document, and image-based Q&A.
 
-- 🏠 [**Real Estates**](https://github.com/Apoo141104/Real-Estates)  
-  Capstone project analyzing real estate data using regression models and web scraping. Includes EDA, feature engineering, and automated price predictions.
+- 🛒 **[Smart Vision Technology (Flipkart Grid 6.0)](https://github.com/Apoo141104/flipkartgridrobotics6.0-aabenuni)**  
+  CNN + OCR-based system for detecting brand, expiry date, and fruit freshness (98.87% accuracy).
 
-- 🧳 [**Travel App**](https://github.com/Apoo141104/travel_app)  
-  A Streamlit-based intelligent travel agent that helps users explore destinations and plan trips efficiently.
+- 🧳 **[Travel App](https://github.com/Apoo141104/travel_app)**  
+  Intelligent travel itinerary planner with expense tracking and destination insights.
 
-- 🎥 [**Real-Time Object Detection in Video**](https://github.com/Apoo141104/Real-Time-Detection-of-Object-Missing-and-New-Object-Placement-in-Video)  
-  Real-time analytics pipeline for video surveillance, detecting missing and newly placed objects in dynamic scenes.
+- 🎥 **[Real-Time Object Detection in Video](https://github.com/Apoo141104/Real-Time-Detection-of-Object-Missing-and-New-Object-Placement-in-Video)**  
+  Real-time YOLOv8 + DeepSORT pipeline for detecting missing or newly placed objects.
 
-- 🚗 [**Campus Carpool**](https://github.com/Apoo141104/campus-carpool-)  
-  C++ project using Dijkstra’s algorithm for optimized campus carpooling. Supports ride creation, user matching, and modular class structure.
+- 🏠 **[Smart Estates](https://github.com/Apoo141104/Real-Estates)**  
+  Regression-based real estate analytics and price prediction using web-scraped data.
 
 ---
 
@@ -97,4 +98,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Apoo141104&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
